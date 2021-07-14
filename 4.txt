@@ -1,0 +1,2 @@
+This rext file contains clone test code
+
