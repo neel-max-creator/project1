@@ -1,2 +1,5 @@
 This rext file contains clone test code
 
+Test for stash file
+
+
